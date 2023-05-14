@@ -7,5 +7,5 @@ Construido com o objetivo de relembrar a linguagem C# e a utilização da Engine
 # Como jogar
 - Executavel para windows.
 - Clone este repositório.
-- Acesso o diretório "Game"
+- Acesse o diretório "Game"
 - Execute o arquivo `Tower Defense.exe`
